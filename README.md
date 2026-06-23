@@ -11,12 +11,10 @@
 
 <br />
 
-<a href="https://postimg.cc/yJBr8Zvm">
-  <img src="https://i.postimg.cc/HL7G30Mh/problema-del-ebrio-1.png" width="600" alt="Problema del Ebrio View 1">
-</a>
-<a href="https://postimg.cc/crnD7mzr">
-  <img src="https://i.postimg.cc/L6yrpQBB/problema-del-ebrio-2.png" width="600" alt="Problema del Ebrio View 2">
-</a>
+<p align="center">
+  <a href="https://postimg.cc/yJBr8Zvm"><img src="https://i.postimg.cc/HL7G30Mh/problema-del-ebrio-1.png" width="48%" alt="Problema del Ebrio View 1"></a>
+  <a href="https://postimg.cc/crnD7mzr"><img src="https://i.postimg.cc/L6yrpQBB/problema-del-ebrio-2.png" width="48%" alt="Problema del Ebrio View 2"></a>
+</p>
 
 <br />
 
@@ -37,4 +35,4 @@ Clona el repositorio y ejecuta el script para usar el programa en tu entorno loc
 ```bash
 git clone https://github.com/valezks2/problema-del-ebrio
 cd problema-del-ebrio
-python "problema del ebrio.py"
+python problema-del-ebrio.py
